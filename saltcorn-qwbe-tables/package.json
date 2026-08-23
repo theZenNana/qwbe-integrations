@@ -1,0 +1,8 @@
+{
+  "name": "saltcorn-qwbe-tables",
+  "version": "0.1.0",
+  "description": "qwbe REST API table provider for Saltcorn: exposes qwbe cubes (from its OpenAPI document) as Saltcorn external tables",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {}
+}
